@@ -146,5 +146,32 @@ namespace Atividade_12_03_2026
                 txtCampo.Text = "A letra é uma consoante.";
             }
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            if (textBox1.Text != string.Empty)
+            {
+
+                int value1 = int.Parse(textBox1.Text);
+                int value2 = int.Parse(textBox2.Text);
+                int value3 = int.Parse(textBox3.Text);
+
+                int result = (value1 + value2 + value3) / 3;
+
+                if (result >= 7)
+                {
+                    txtCampo.Text = ("O aluno está APROVADO");
+                }
+                else
+                {
+                    txtCampo.Text = ("O aluno está REPROVADO");
+                }
+
+            }
+            else
+            {
+                MessageBox.Show("Insira os valores para o cálculo da média");
+            }
+        }
     }
 }
