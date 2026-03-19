@@ -1,0 +1,10 @@
+C:\Users\natanael.smizzone\source\repos\pokemon_agenda\pokemon_agenda\bin\Debug\pokemon_agenda.exe.config
+C:\Users\natanael.smizzone\source\repos\pokemon_agenda\pokemon_agenda\bin\Debug\pokemon_agenda.exe
+C:\Users\natanael.smizzone\source\repos\pokemon_agenda\pokemon_agenda\bin\Debug\pokemon_agenda.pdb
+C:\Users\natanael.smizzone\source\repos\pokemon_agenda\pokemon_agenda\obj\Debug\pokemon_agenda.csproj.AssemblyReference.cache
+C:\Users\natanael.smizzone\source\repos\pokemon_agenda\pokemon_agenda\obj\Debug\pokemon_agenda.FmCadastroPokemon.resources
+C:\Users\natanael.smizzone\source\repos\pokemon_agenda\pokemon_agenda\obj\Debug\pokemon_agenda.Properties.Resources.resources
+C:\Users\natanael.smizzone\source\repos\pokemon_agenda\pokemon_agenda\obj\Debug\pokemon_agenda.csproj.GenerateResource.cache
+C:\Users\natanael.smizzone\source\repos\pokemon_agenda\pokemon_agenda\obj\Debug\pokemon_agenda.csproj.CoreCompileInputs.cache
+C:\Users\natanael.smizzone\source\repos\pokemon_agenda\pokemon_agenda\obj\Debug\pokemon_agenda.exe
+C:\Users\natanael.smizzone\source\repos\pokemon_agenda\pokemon_agenda\obj\Debug\pokemon_agenda.pdb

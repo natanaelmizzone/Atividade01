@@ -1,0 +1,10 @@
+C:\Users\natanael.smizzone\source\repos\primeira_aula\primeira_aula\bin\Debug\primeira_aula.exe.config
+C:\Users\natanael.smizzone\source\repos\primeira_aula\primeira_aula\bin\Debug\primeira_aula.exe
+C:\Users\natanael.smizzone\source\repos\primeira_aula\primeira_aula\bin\Debug\primeira_aula.pdb
+C:\Users\natanael.smizzone\source\repos\primeira_aula\primeira_aula\obj\Debug\primeira_aula.csproj.AssemblyReference.cache
+C:\Users\natanael.smizzone\source\repos\primeira_aula\primeira_aula\obj\Debug\primeira_aula.Properties.Resources.resources
+C:\Users\natanael.smizzone\source\repos\primeira_aula\primeira_aula\obj\Debug\primeira_aula.csproj.GenerateResource.cache
+C:\Users\natanael.smizzone\source\repos\primeira_aula\primeira_aula\obj\Debug\primeira_aula.csproj.CoreCompileInputs.cache
+C:\Users\natanael.smizzone\source\repos\primeira_aula\primeira_aula\obj\Debug\primeira_aula.exe
+C:\Users\natanael.smizzone\source\repos\primeira_aula\primeira_aula\obj\Debug\primeira_aula.pdb
+C:\Users\natanael.smizzone\source\repos\primeira_aula\primeira_aula\obj\Debug\primeira_aula.Form1.resources
