@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\bin",
+    "\\obj",
+    "\\Properties"
   ],
-  "SelectedNode": "\\App.config",
+  "SelectedNode": "\\Form1.resx",
   "PreviewInSolutionExplorer": false
 }
